@@ -38,7 +38,7 @@ public class TodoListItemView extends TextView{
 
         // Создать кисти для рисования, которые используем в методе onDraw
         marginPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
-        marginPaint.setColor(myResources.getColor(R.color.notepad_margin));
+        marginPaint.setColor(myResourcesS.getColor(R.color.notepad_margin));
         linePaint = new Paint(Paint.ANTI_ALIAS_FLAG);
         linePaint.setColor(myResources.getColor(R.color.notepad_lines));
 
