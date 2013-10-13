@@ -1,4 +1,4 @@
-package com.example.todo_list;
+package com.simple.todo_list;
 
 import android.content.Context;
 import android.os.Bundle;
